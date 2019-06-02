@@ -23,5 +23,5 @@ Strcpy.class: Strcpy.java
 clean:
 	-rm -f *~
 	-rm -f strcpy_cpp strcpy_c
-	-rm -f strcpy_cpp.o strpy_c.o
+	-rm -f strcpy_cpp.o strcpy_c.o
 	-rm -f Strcpy.class
