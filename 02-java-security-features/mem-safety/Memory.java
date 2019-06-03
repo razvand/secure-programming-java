@@ -1,7 +1,7 @@
 public class Memory {
     public static void main(String[] args) {
         int[] buf = new int[32];
-            if (args.length != 1) {
+        if (args.length != 1) {
             System.err.println("Provide one numeric argument.");
             System.exit(-1);
         }
